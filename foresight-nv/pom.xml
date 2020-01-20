@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.inn.foresight</groupId>
+		<artifactId>foresight-parent</artifactId>
+		<version>1.0.DEV</version>
+	</parent>
+	<artifactId>foresight-nv</artifactId>
+	<packaging>jar</packaging>
+
+	<name>Netvelocity</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.inn.foresight</groupId>
+			<artifactId>foresight-test</artifactId>
+			<version>1.0.DEV</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.inn.foresight</groupId>
+			<artifactId>foresight-core</artifactId>
+			<version>1.0.DEV</version>
+		</dependency>
+		<dependency>
+			<groupId>com.inn.foresight</groupId>
+			<artifactId>foresight-bpmn</artifactId>
+			<version>1.0.DEV</version>
+		</dependency>
+		<dependency>
+			<groupId>com.inn.foresight</groupId>
+			<artifactId>foresight-coverage</artifactId>
+			<version>1.0.DEV</version>
+		</dependency>
+		<dependency>
+                        <groupId>com.inn.foresight</groupId>
+                        <artifactId>foresight-fm</artifactId>
+                        <version>1.0.DEV</version>
+                </dependency>
+<!-- Maven DEPENDENCY for CALIBRI -->
+		<dependency>
+			<groupId>net.sf.jasperreports</groupId>
+			<artifactId>jasperreports-fonts</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.jasperreports</groupId>
+			<artifactId>jasper-custom-calibri-font</artifactId>
+		</dependency>
+   <dependency>
+                        <groupId>net.sf.jasperreports</groupId>
+                        <artifactId>jasperreports</artifactId>
+                </dependency>
+    <dependency>
+      <groupId>org.apache.pdfbox</groupId>
+      <artifactId>pdfbox</artifactId>
+    </dependency>
+   
+	</dependencies>
+
+</project>

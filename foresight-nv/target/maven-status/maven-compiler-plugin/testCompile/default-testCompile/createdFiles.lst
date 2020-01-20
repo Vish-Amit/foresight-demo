@@ -1,0 +1,4 @@
+com/inn/foresight/Test.class
+com/inn/foresight/module/nv/report/testcases/CustomerExperienceTestCase.class
+com/inn/foresight/module/nv/report/testcases/SSVTTestCase.class
+com/inn/foresight/module/nv/workorder/stealth/service/TestStealthTaskMicroServiceImpl.class
