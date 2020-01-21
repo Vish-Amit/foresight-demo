@@ -4,7 +4,7 @@ select ne_.neid , ne1_.neid , ne_.nename , ne1_.nename , ne_.netype , ne1_.netyp
 
 
 
-https://stg-fos.rmb-ss.jp/customercare/rest/CCSSS/cemo123/deno?latitude=35.16785&longitude=136.970475&NELat=35.1787192799742&NELng=136.9983530044556&SWLat=35.15700356859202&SWLng=136.94260597229007&zoomLevel=15
+https://stg-fos.rmb-ss.jp/customercare/mestsss/CCSSS/cemo123/deno?latitude=35.16785&longitude=136.970475&NELat=35.1787192799742&NELng=136.9983530044556&SWLat=35.15700356859202&SWLng=136.94260597229007&zoomLevel=15
 
 
 
